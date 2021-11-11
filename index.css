@@ -1,0 +1,67 @@
+body{
+    background-image:url("car_service_sunderland.jpg");
+    background-repeat:no-repeat;
+    background-size:101%;
+}
+#h11{
+    color:white;
+    text-align:center;
+    text-transform:uppercase;
+    font-size:70px;;
+}
+#input1{
+    align:center;
+    position:absolute;
+    top:20%;
+    right:45%;
+    height:25px;
+}
+#input2{
+    align:center;
+    position:absolute;
+    top:25%;
+    right:45%;
+    height:25px;
+}
+#input3{
+    align:center;
+    position:absolute;
+    top:30%;
+    right:45%;
+    height:25px;
+}
+#input4{
+    align:center;
+    position:absolute;
+    top:35%;
+    right:45%;
+    height:25px;
+}
+#input5{
+    align:center;
+    position:absolute;
+    top:40%;
+    right:45%;
+    height:25px;
+}
+#input6{
+    align:center;
+    position:absolute;
+    top:45%;
+    right:45%;
+    height:25px;
+}
+#input7{
+    align:center;
+    position:absolute;
+    top:50%;
+    right:45%;
+    height:25px;
+}
+#button1{
+    align:center;
+    position:absolute;
+    top:55%;
+    right:45%;
+    height:25px;
+}
